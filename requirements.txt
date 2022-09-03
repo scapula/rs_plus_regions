@@ -1,0 +1,5 @@
+itertools
+matplotlib
+numpy
+pandas
+sqlite3
