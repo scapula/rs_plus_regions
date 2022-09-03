@@ -1,4 +1,3 @@
-itertools
 matplotlib
 numpy
 pandas
